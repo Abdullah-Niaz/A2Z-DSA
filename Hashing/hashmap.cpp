@@ -11,6 +11,7 @@ int main(){
     // map<key, value>
     for (int i = 0; i < n; i++)
     {
+        // insetion is of o(n)
         cin>>arr[i];
         ma[arr[i]]++;
     }
