@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "convertArrayToLinkedlist",
+      "request": "launch",
+      "mainClass": "convertArrayToLinkedlist",
+      "projectName": "A2Z-DSA_69dd8104"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
